@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>crab_r8g4qhm2.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\crab_r8g4qhm2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>220</ymin>
+			<xmax>417</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

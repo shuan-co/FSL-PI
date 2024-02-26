@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>chicken_a6g1573a.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\chicken_a6g1573a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>61</ymin>
+			<xmax>306</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>chicken_8thl7rba.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\chicken_8thl7rba.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>160</ymin>
+			<xmax>284</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>bread_94rgjmgt.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\bread_94rgjmgt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>138</ymin>
+			<xmax>387</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

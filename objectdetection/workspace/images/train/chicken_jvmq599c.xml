@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>chicken_jvmq599c.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\chicken_jvmq599c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>49</ymin>
+			<xmax>342</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

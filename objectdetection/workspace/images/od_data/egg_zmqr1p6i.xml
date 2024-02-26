@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>egg_zmqr1p6i.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\egg_zmqr1p6i.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>252</ymin>
+			<xmax>415</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

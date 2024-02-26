@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>egg_7g6325ol.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\egg_7g6325ol.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>308</ymin>
+			<xmax>400</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

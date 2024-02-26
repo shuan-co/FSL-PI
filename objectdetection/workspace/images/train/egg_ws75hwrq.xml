@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>egg_ws75hwrq.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\egg_ws75hwrq.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>200</ymin>
+			<xmax>398</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

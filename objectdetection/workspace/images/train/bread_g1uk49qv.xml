@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_data</folder>
+	<filename>bread_g1uk49qv.jpg</filename>
+	<path>C:\Users\dariu\OneDrive\Desktop\Git\FSL-PI\dataset\od_data\bread_g1uk49qv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>223</ymin>
+			<xmax>361</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

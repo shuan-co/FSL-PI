@@ -1,0 +1,16 @@
+item { 
+	name:'egg'
+	id:1
+}
+item { 
+	name:'chicken'
+	id:2
+}
+item { 
+	name:'crab'
+	id:3
+}
+item { 
+	name:'bread'
+	id:4
+}
